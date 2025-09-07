@@ -1,0 +1,8 @@
+Quantum Chemistry with Psi4 - H2 Potential Energy Curve
+
+Method     Basis      E_min (Eh)      R_min (Å)       Time (s)  
+SCF        cc-pVTZ    -1.13299024     0.7348          14.85     
+B3LYP      cc-pVTZ    -1.17999978     0.7435          41.94     
+MP2        cc-pVTZ    -1.16464454     0.7365          19.38     
+MP4        cc-pVTZ    -1.17172996     0.7418          62.41     
+FCI        cc-pVTZ    -1.17233617     0.7418          27.63     

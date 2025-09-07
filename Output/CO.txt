@@ -1,0 +1,169 @@
+Quantum Chemistry with Psi4 - CO Properties
+
+Method: SCF  , Basis: sto-3g  --> Energy = -111.22455870 Eh
+  1. Mulliken Charges: [ 0.03798343 -0.03798343]
+  2. Lowdin Charges: [ 0.03798343 -0.03798343]
+  3. Dipole Moment (a.u.): [ 4.13394435e-15 -1.54043308e-17  6.63875563e-02]
+  4. Quadrupole Moment (a.u.): [[-6.46703215e+00  1.46563006e-16 -4.99895090e-15]
+ [ 1.46563006e-16 -6.46703215e+00  8.31179445e-18]
+ [-4.99895090e-15  8.31179445e-18 -8.71836935e+00]]
+  5. Mayer Indices: [[0.         2.51512956]
+ [2.51512956 0.        ]]
+  6. Wiberg Lowdin Indices: [[0.         2.61355844]
+ [2.61355844 0.        ]]
+  7. Electrostatic Potential at Nuclei 1: -14.564366486996352
+  8. Electrostatic Potential at Nuclei 2: -21.879906557421016
+
+Method: SCF  , Basis: 6-31G   --> Energy = -112.66720456 Eh
+  1. Mulliken Charges: [ 0.16289174 -0.16289174]
+  2. Lowdin Charges: [ 0.16289174 -0.16289174]
+  3. Dipole Moment (a.u.): [ 1.87610200e-16  1.79952089e-17 -2.20258852e-01]
+  4. Quadrupole Moment (a.u.): [[-7.42635530e+00  2.31788005e-15  8.45157577e-16]
+ [ 2.31788005e-15 -7.42635530e+00  2.26067034e-15]
+ [ 8.45157577e-16  2.26067034e-15 -9.55974481e+00]]
+  5. Mayer Indices: [[0.         2.16544681]
+ [2.16544681 0.        ]]
+  6. Wiberg Lowdin Indices: [[0.        2.8962323]
+ [2.8962323 0.       ]]
+  7. Electrostatic Potential at Nuclei 1: -14.608481486310396
+  8. Electrostatic Potential at Nuclei 2: -22.217621428490638
+
+Method: SCF  , Basis: cc-pVDZ --> Energy = -112.74931133 Eh
+  1. Mulliken Charges: [-0.09712348  0.09712348]
+  2. Lowdin Charges: [-0.09712348  0.09712348]
+  3. Dipole Moment (a.u.): [-4.30591375e-15  5.46574247e-16 -9.15214459e-02]
+  4. Quadrupole Moment (a.u.): [[-7.45686816e+00  1.65264647e-16  6.56018093e-15]
+ [ 1.65264647e-16 -7.45686816e+00 -1.76712933e-15]
+ [ 6.56018093e-15 -1.76712933e-15 -9.01795899e+00]]
+  5. Mayer Indices: [[0.       2.508912]
+ [2.508912 0.      ]]
+  6. Wiberg Lowdin Indices: [[0.         3.10368818]
+ [3.10368818 0.        ]]
+  7. Electrostatic Potential at Nuclei 1: -14.636224574174175
+  8. Electrostatic Potential at Nuclei 2: -22.24027823696859
+
+Method: SCF  , Basis: aug-cc-pVDZ --> Energy = -112.75471918 Eh
+  1. Mulliken Charges: [ 0.10999936 -0.10999936]
+  2. Lowdin Charges: [ 0.10999936 -0.10999936]
+  3. Dipole Moment (a.u.): [ 4.60631312e-15 -3.40612135e-15 -1.01596634e-01]
+  4. Quadrupole Moment (a.u.): [[-7.61919786e+00  1.00820429e-14 -9.34022271e-15]
+ [ 1.00820429e-14 -7.61919786e+00  9.25706723e-15]
+ [-9.34022271e-15  9.25706723e-15 -9.20188662e+00]]
+  5. Mayer Indices: [[0.         2.31905383]
+ [2.31905383 0.        ]]
+  6. Wiberg Lowdin Indices: [[0.         3.72510088]
+ [3.72510088 0.        ]]
+  7. Electrostatic Potential at Nuclei 1: -14.629968137305614
+  8. Electrostatic Potential at Nuclei 2: -22.231093282515037
+
+Method: MP2  , Basis: sto-3g  --> Energy = -111.35306878 Eh
+  1. Mulliken Charges: [ 0.0379834 -0.0379834]
+  2. Lowdin Charges: [ 0.0379834 -0.0379834]
+  3. Dipole Moment (a.u.): [1.54753668e-15 4.81454062e-18 6.63875792e-02]
+  4. Quadrupole Moment (a.u.): [[-6.46703216e+00  2.92137669e-16 -5.34344917e-16]
+ [ 2.92137669e-16 -6.46703216e+00 -9.02391809e-18]
+ [-5.34344917e-16 -9.02391809e-18 -8.71836937e+00]]
+  5. Mayer Indices: [[0.         2.51512958]
+ [2.51512958 0.        ]]
+  6. Wiberg Lowdin Indices: [[0.         2.61355846]
+ [2.61355846 0.        ]]
+  7. Electrostatic Potential at Nuclei 1: -14.564366496368322
+  8. Electrostatic Potential at Nuclei 2: -21.87990653578472
+
+Method: MP2  , Basis: 6-31G   --> Energy = -112.87937561 Eh
+  1. Mulliken Charges: [ 0.16289172 -0.16289172]
+  2. Lowdin Charges: [ 0.16289172 -0.16289172]
+  3. Dipole Moment (a.u.): [-5.45366652e-16 -1.68026464e-15 -2.20258770e-01]
+  4. Quadrupole Moment (a.u.): [[-7.42635537e+00 -1.32493504e-15  3.99608807e-15]
+ [-1.32493504e-15 -7.42635537e+00  4.33760138e-15]
+ [ 3.99608807e-15  4.33760138e-15 -9.55974481e+00]]
+  5. Mayer Indices: [[0.         2.16544685]
+ [2.16544685 0.        ]]
+  6. Wiberg Lowdin Indices: [[0.         2.89623235]
+ [2.89623235 0.        ]]
+  7. Electrostatic Potential at Nuclei 1: -14.608481445180416
+  8. Electrostatic Potential at Nuclei 2: -22.2176215059564
+
+Method: MP2  , Basis: cc-pVDZ --> Energy = -113.04018481 Eh
+  1. Mulliken Charges: [-0.09712375  0.09712375]
+  2. Lowdin Charges: [-0.09712375  0.09712375]
+  3. Dipole Moment (a.u.): [-3.40740719e-15 -5.13072028e-16 -9.15212795e-02]
+  4. Quadrupole Moment (a.u.): [[-7.45686908e+00 -1.03918876e-15  2.10793069e-15]
+ [-1.03918876e-15 -7.45686908e+00  8.78290467e-16]
+ [ 2.10793069e-15  8.78290467e-16 -9.01795611e+00]]
+  5. Mayer Indices: [[0.         2.50891215]
+ [2.50891215 0.        ]]
+  6. Wiberg Lowdin Indices: [[0.         3.10368938]
+ [3.10368938 0.        ]]
+  7. Electrostatic Potential at Nuclei 1: -14.636223862162758
+  8. Electrostatic Potential at Nuclei 2: -22.24027979989828
+
+Method: MP2  , Basis: aug-cc-pVDZ --> Energy = -113.05879697 Eh
+  1. Mulliken Charges: [ 0.10999947 -0.10999947]
+  2. Lowdin Charges: [ 0.10999947 -0.10999947]
+  3. Dipole Moment (a.u.): [ 4.15985162e-15 -8.85085978e-16 -1.01598187e-01]
+  4. Quadrupole Moment (a.u.): [[-7.61919694e+00  1.33671795e-14 -8.58991108e-15]
+ [ 1.33671795e-14 -7.61919694e+00  8.54283984e-15]
+ [-8.58991108e-15  8.54283984e-15 -9.20188167e+00]]
+  5. Mayer Indices: [[0.         2.31905045]
+ [2.31905045 0.        ]]
+  6. Wiberg Lowdin Indices: [[0.         3.72510076]
+ [3.72510076 0.        ]]
+  7. Electrostatic Potential at Nuclei 1: -14.629968370119158
+  8. Electrostatic Potential at Nuclei 2: -22.23109360915243
+
+Method: B3LYP, Basis: sto-3g  --> Energy = -111.76423073 Eh
+  1. Mulliken Charges: [-0.03363448  0.03363448]
+  2. Lowdin Charges: [-0.03363448  0.03363448]
+  3. Dipole Moment (a.u.): [-3.08117904e-15 -7.85065313e-16  1.95678775e-01]
+  4. Quadrupole Moment (a.u.): [[-6.52268782e+00  2.12915282e-16  4.04017529e-15]
+ [ 2.12915282e-16 -6.52268782e+00 -2.13299760e-16]
+ [ 4.04017529e-15 -2.13299760e-16 -8.61680251e+00]]
+  5. Mayer Indices: [[0.         2.57344353]
+ [2.57344353 0.        ]]
+  6. Wiberg Lowdin Indices: [[0.        2.6745489]
+ [2.6745489 0.       ]]
+  7. Electrostatic Potential at Nuclei 1: -14.595218950568619
+  8. Electrostatic Potential at Nuclei 2: -21.83491557432961
+
+Method: B3LYP, Basis: 6-31G   --> Energy = -113.25749089 Eh
+  1. Mulliken Charges: [ 0.06317013 -0.06317013]
+  2. Lowdin Charges: [ 0.06317013 -0.06317013]
+  3. Dipole Moment (a.u.): [-2.32261440e-15 -1.27163437e-15 -1.31667304e-02]
+  4. Quadrupole Moment (a.u.): [[-7.34339409e+00 -5.99932228e-16  6.64672005e-15]
+ [-5.99932228e-16 -7.34339409e+00  3.78211688e-15]
+ [ 6.64672005e-15  3.78211688e-15 -9.33743999e+00]]
+  5. Mayer Indices: [[0.         2.27930767]
+ [2.27930767 0.        ]]
+  6. Wiberg Lowdin Indices: [[0.         3.01308116]
+ [3.01308116 0.        ]]
+  7. Electrostatic Potential at Nuclei 1: -14.659186067919144
+  8. Electrostatic Potential at Nuclei 2: -22.227738176067973
+
+Method: B3LYP, Basis: cc-pVDZ --> Energy = -113.32127098 Eh
+  1. Mulliken Charges: [-0.17161993  0.17161993]
+  2. Lowdin Charges: [-0.17161993  0.17161993]
+  3. Dipole Moment (a.u.): [-3.15760741e-15 -1.73398887e-15  7.96046915e-02]
+  4. Quadrupole Moment (a.u.): [[-7.39318631e+00  3.18995661e-16  3.76467816e-15]
+ [ 3.18995661e-16 -7.39318631e+00 -1.90039440e-15]
+ [ 3.76467816e-15 -1.90039440e-15 -8.89937795e+00]]
+  5. Mayer Indices: [[0.         2.62649115]
+ [2.62649115 0.        ]]
+  6. Wiberg Lowdin Indices: [[0.         3.19085738]
+ [3.19085738 0.        ]]
+  7. Electrostatic Potential at Nuclei 1: -14.676977887199243
+  8. Electrostatic Potential at Nuclei 2: -22.249132038542736
+
+Method: B3LYP, Basis: aug-cc-pVDZ --> Energy = -113.33019775 Eh
+  1. Mulliken Charges: [ 0.05736301 -0.05736301]
+  2. Lowdin Charges: [ 0.05736301 -0.05736301]
+  3. Dipole Moment (a.u.): [ 3.03768384e-15 -6.73956650e-15  3.58322616e-02]
+  4. Quadrupole Moment (a.u.): [[-7.67148435e+00  3.91570365e-15 -9.99154319e-15]
+ [ 3.91570365e-15 -7.67148435e+00  1.65034009e-14]
+ [-9.99154319e-15  1.65034009e-14 -9.22301309e+00]]
+  5. Mayer Indices: [[0.         2.56663356]
+ [2.56663356 0.        ]]
+  6. Wiberg Lowdin Indices: [[0.         3.81717638]
+ [3.81717638 0.        ]]
+  7. Electrostatic Potential at Nuclei 1: -14.668429733979053
+  8. Electrostatic Potential at Nuclei 2: -22.235289406274404

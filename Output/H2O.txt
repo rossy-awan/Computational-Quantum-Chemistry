@@ -1,0 +1,61 @@
+Quantum Chemistry with Psi4 - H2O Properties
+
+Method: SCF  , Basis: sto-3g  --> Energy = -74.96331905 Eh
+  1. Mulliken Charges: [-0.25183166  0.12591583  0.12591583]
+  2. Lowdin Charges: [-0.25183166  0.12591583  0.12591583]
+  3. Dipole Moment (a.u.): [-5.44584956e-16  2.33146835e-15  6.77588334e-01]
+
+Method: SCF  , Basis: 6-31G   --> Energy = -75.98394030 Eh
+  1. Mulliken Charges: [-0.58239368  0.29119684  0.29119684]
+  2. Lowdin Charges: [-0.58239368  0.29119684  0.29119684]
+  3. Dipole Moment (a.u.): [-7.52769926e-17  8.71525074e-15  1.03531720e+00]
+
+Method: SCF  , Basis: cc-pVDZ --> Energy = -76.02665366 Eh
+  1. Mulliken Charges: [-0.09763055  0.04881527  0.04881527]
+  2. Lowdin Charges: [-0.09763055  0.04881527  0.04881527]
+  3. Dipole Moment (a.u.): [ 2.64809819e-16 -3.21964677e-15  8.10143214e-01]
+
+Method: SCF  , Basis: aug-cc-pVDZ --> Energy = -76.04125669 Eh
+  1. Mulliken Charges: [ 0.1883167  -0.09415835 -0.09415835]
+  2. Lowdin Charges: [ 0.1883167  -0.09415835 -0.09415835]
+  3. Dipole Moment (a.u.): [-4.34625316e-16 -1.25455202e-14  7.87274208e-01]
+
+Method: MP2  , Basis: sto-3g  --> Energy = -74.99903329 Eh
+  1. Mulliken Charges: [-0.25183168  0.12591584  0.12591584]
+  2. Lowdin Charges: [-0.25183168  0.12591584  0.12591584]
+  3. Dipole Moment (a.u.): [ 6.35697303e-17 -1.11022302e-15  6.77588355e-01]
+
+Method: MP2  , Basis: 6-31G   --> Energy = -76.11297941 Eh
+  1. Mulliken Charges: [-0.58239363  0.29119681  0.29119681]
+  2. Lowdin Charges: [-0.58239363  0.29119681  0.29119681]
+  3. Dipole Moment (a.u.): [ 1.56866177e-16 -2.38697950e-15  1.03531649e+00]
+
+Method: MP2  , Basis: cc-pVDZ --> Energy = -76.23079319 Eh
+  1. Mulliken Charges: [-0.09763065  0.04881532  0.04881532]
+  2. Lowdin Charges: [-0.09763065  0.04881532  0.04881532]
+  3. Dipole Moment (a.u.): [-8.29093934e-17  1.55431223e-15  8.10142534e-01]
+
+Method: MP2  , Basis: aug-cc-pVDZ --> Energy = -76.26331771 Eh
+  1. Mulliken Charges: [ 0.18831648 -0.09415824 -0.09415824]
+  2. Lowdin Charges: [ 0.18831648 -0.09415824 -0.09415824]
+  3. Dipole Moment (a.u.): [ 1.38222206e-16 -1.49880108e-14  7.87274423e-01]
+
+Method: B3LYP, Basis: sto-3g  --> Energy = -75.31309444 Eh
+  1. Mulliken Charges: [-0.25238265  0.12619132  0.12619132]
+  2. Lowdin Charges: [-0.25238265  0.12619132  0.12619132]
+  3. Dipole Moment (a.u.): [5.61124521e-16 1.04360964e-14 6.58866522e-01]
+
+Method: B3LYP, Basis: 6-31G   --> Energy = -76.38511875 Eh
+  1. Mulliken Charges: [-0.54857372  0.27428686  0.27428686]
+  2. Lowdin Charges: [-0.54857372  0.27428686  0.27428686]
+  3. Dipole Moment (a.u.): [ 6.32115514e-16 -6.41153797e-15  9.67763385e-01]
+
+Method: B3LYP, Basis: cc-pVDZ --> Energy = -76.42044143 Eh
+  1. Mulliken Charges: [-0.08246524  0.04123262  0.04123262]
+  2. Lowdin Charges: [-0.08246524  0.04123262  0.04123262]
+  3. Dipole Moment (a.u.): [1.03516917e-15 8.10462808e-15 7.51923674e-01]
+
+Method: B3LYP, Basis: aug-cc-pVDZ --> Energy = -76.44459494 Eh
+  1. Mulliken Charges: [ 0.22250042 -0.11125021 -0.11125021]
+  2. Lowdin Charges: [ 0.22250042 -0.11125021 -0.11125021]
+  3. Dipole Moment (a.u.): [-1.14118966e-14 -2.46469511e-14  7.29889928e-01]

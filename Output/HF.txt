@@ -1,0 +1,66 @@
+Quantum Chemistry with Psi4 - HF Non-Relativistic vs Relativistic
+
+Non-Relativistic SCF/sto-3g Energy = -98.57066672 Eh
+  1. Mulliken Charges: [ 0.1524911 -0.1524911]
+  2. Lowdin Charges: [ 0.1524911 -0.1524911]
+  3. Dipole Moment (a.u.): [ 0.          0.         -0.50731081]
+
+Non-Relativistic SCF/6-31G Energy = -99.98339915 Eh
+  1. Mulliken Charges: [ 0.36889086 -0.36889086]
+  2. Lowdin Charges: [ 0.36889086 -0.36889086]
+  3. Dipole Moment (a.u.): [-3.26602717e-15 -4.23628465e-16 -9.02690485e-01]
+
+Non-Relativistic SCF/cc-pVDZ Energy = -100.01944753 Eh
+  1. Mulliken Charges: [ 0.06845671 -0.06845671]
+  2. Lowdin Charges: [ 0.06845671 -0.06845671]
+  3. Dipole Moment (a.u.): [-7.86239332e-17  5.18980873e-16 -7.66235122e-01]
+
+Non-Relativistic SCF/aug-cc-pVDZ Energy = -100.03350572 Eh
+  1. Mulliken Charges: [-0.05920317  0.05920317]
+  2. Lowdin Charges: [-0.05920317  0.05920317]
+  3. Dipole Moment (a.u.): [ 6.63741615e-16  5.61404267e-16 -7.58997844e-01]
+
+Relativistic SCF/def2-SVP (ECP) Energy = -99.93253273 Eh
+  1. Mulliken Charges: [ 0.11172501 -0.11172501]
+  2. Lowdin Charges: [ 0.11172501 -0.11172501]
+  3. Dipole Moment (a.u.): [-2.80723311e-16 -7.43695202e-16 -7.81264846e-01]
+
+Relativistic SCF/def2-TZVP (ECP) Energy = -100.06335634 Eh
+  1. Mulliken Charges: [ 0.19099885 -0.19099885]
+  2. Lowdin Charges: [ 0.19099885 -0.19099885]
+  3. Dipole Moment (a.u.): [ 1.13546352e-16 -1.71021099e-15 -7.92517562e-01]
+
+Relativistic SCF/def2-QZVP (ECP) Energy = -100.07024028 Eh
+  1. Mulliken Charges: [-0.52805678  0.52805678]
+  2. Lowdin Charges: [-0.52805678  0.52805678]
+  3. Dipole Moment (a.u.): [-4.92265106e-16  2.79358754e-15 -7.62644403e-01]
+
+Relativistic SCF/cc-pVDZ-DK (DKH) Energy = -100.10567323 Eh
+  1. Mulliken Charges: [ 0.06891423 -0.06891423]
+  2. Lowdin Charges: [ 0.06891423 -0.06891423]
+  3. Dipole Moment (a.u.): [ 4.39482570e-16  2.58715834e-16 -7.64722273e-01]
+
+Relativistic SCF/cc-pVTZ-DK (DKH) Energy = -100.14454119 Eh
+  1. Mulliken Charges: [-0.25028313  0.25028313]
+  2. Lowdin Charges: [-0.25028313  0.25028313]
+  3. Dipole Moment (a.u.): [ 2.05677366e-15  1.60987165e-15 -7.61515348e-01]
+
+Relativistic SCF/cc-pVQZ-DK (DKH) Energy = -100.15443280 Eh
+  1. Mulliken Charges: [-0.61194706  0.61194706]
+  2. Lowdin Charges: [-0.61194706  0.61194706]
+  3. Dipole Moment (a.u.): [-1.12506245e-15 -3.14981722e-17 -7.58590627e-01]
+
+Relativistic SCF/cc-pVDZ (X2C) Energy = -100.10023892 Eh
+  1. Mulliken Charges: [ 0.06916436 -0.06916436]
+  2. Lowdin Charges: [ 0.06916436 -0.06916436]
+  3. Dipole Moment (a.u.): [-1.20258178e-15  3.15304749e-15 -7.65154258e-01]
+
+Relativistic SCF/cc-pVTZ (X2C) Energy = -100.13932645 Eh
+  1. Mulliken Charges: [-0.25065827  0.25065827]
+  2. Lowdin Charges: [-0.25065827  0.25065827]
+  3. Dipole Moment (a.u.): [ 1.46845509e-14  1.92795332e-14 -7.61631379e-01]
+
+Relativistic SCF/cc-pVQZ (X2C) Energy = -100.14970682 Eh
+  1. Mulliken Charges: [-0.61192446  0.61192446]
+  2. Lowdin Charges: [-0.61192446  0.61192446]
+  3. Dipole Moment (a.u.): [ 1.03006482e-14  1.00523019e-14 -7.58594805e-01]

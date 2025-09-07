@@ -1,0 +1,8 @@
+Quantum Chemistry with Psi4 - LiH Potential Energy Curve
+
+Method     Basis      E_min (Eh)      R_min (Å)       Time (s)  
+MP4        cc-pVDZ    -8.01400111     1.6130          46.98     
+MP4        cc-pCVDZ   -8.04783263     1.6070          47.39     
+MP4        aug-cc-pVDZ -8.02043333     1.5830          50.82     
+MP4        heavy-aug-cc-pVDZ -8.01445411     1.6100          54.08     
+MP4        cc-pVTZ    -8.03580336     1.5950          78.09     
